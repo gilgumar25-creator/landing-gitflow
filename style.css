@@ -35,3 +35,12 @@ body {
   margin: 6px 0;
 }
 
+.btn {
+  background: #eee;
+  border-radius: 6px;
+}
+
+.btn:hover {
+  opacity: 0.85;
+}
+
